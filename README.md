@@ -1,4 +1,4 @@
-# DataAnalysis_JingDong
+# DataAnalysis_JingDong（开发中）
 基于京东商城的数码产品流行趋势研究
 
 # 基于京东商城的数码产品流行趋势研究
